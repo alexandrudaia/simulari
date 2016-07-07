@@ -1,0 +1,22 @@
+acuratete_sim1:
+acuratete_sim2:
+acuratete_sim3:
+acuratete_sim4:
+acuratete_sim5:
+acuratete_sim6:
+acuratete_sim7:
+acuratete_sim8:
+acuratete_sim9:
+acuratete_sim10:
+Medie:
+Propotii
+Da Nu
+
+
+
+
+Real:
+Acuratete:
+Proportii:
+Da 
+Nu
